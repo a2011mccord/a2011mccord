@@ -1,4 +1,8 @@
-### Hi there 👋
+# Andrew McCord - Full-Stack Web Developer
+
+Throughout my life I’ve had to work in a wide variety of circumstances, developing a strong sense of teamwork, versatility, and the ability to perform well under stress. I have a strong passion for software engineering, which fuels me to strive for excellence in my work and provides me with the drive to continue to learn whatever is necessary to accomplish that.
+
+I'm currently working on a Customer Relationship Management (CRM) website that I created.
 
 <!--
 **a2011mccord/a2011mccord** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
